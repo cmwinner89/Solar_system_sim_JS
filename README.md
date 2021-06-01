@@ -1,4 +1,4 @@
-### Backgrouynd and Overview
+### Background and Overview
 
 My Javascript project is a interactive simulation of our solar system.  The simulation will visualize th current position of the 8 plaents orbiting the sun (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune).  Display in-depth details for each planet.  
 
